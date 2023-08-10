@@ -1,0 +1,18 @@
+Report file of this simulation run. 
+
+----------------------------------------------------
+General Information:
+----------------------------------------------------
+Lost Packets:   0
+Average flit latency: 11.59 ns.
+Average packet latency: 49.43 ns.
+Average network latency: 49.43 ns.
+Clock Counts: [196000000]
+----------------------------------------------------
+Router Matrixes:
+----------------------------------------------------
+Routing calculations:
+----------------------------------------------------
+Link Matrixes:
+----------------------------------------------------
+Transmission matrix of links :
